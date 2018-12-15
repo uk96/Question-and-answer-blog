@@ -1,0 +1,2 @@
+# question-and-answer-blog
+This portal is created for users to ask question and answer questions. Link to site: http://qandablog.000webhostapp.com . There ae 2 section. One for admin to review complaints and one for students for blogging. Student can ask questions,answer questions, like, dislike and report a certain question. Student also can view his profile and all answer given by him and questions asked by him in single tab. Admin can review answers reported by users. Database name: q_a
