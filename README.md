@@ -3,7 +3,9 @@ This portal is created for users to ask question and answer questions.
 Link to site: http://qandablog.000webhostapp.com . 
 There ae 2 sections.     
 1. Admin to review complaints.    
-2. Students for blogging.      
+2. Students for blogging.   
+  
+  
 Action performed by student:  
 1.Ask questions  
 2.Answer questions  
@@ -13,6 +15,7 @@ Action performed by student:
 6.View personal details like profile pic, name, email Id ,etc  
 7.View all answers given by user in one tab   
 8.View all Questions asked by user in single tab  
+  
 Action performed by admin:  
 1.Admin can review answers reported by users.   
   
