@@ -1,7 +1,7 @@
 # question-and-answer-blog
 This portal is created for users to ask question and answer questions.
-Link to site: http://qandablog.000webhostapp.com . 
-There ae 2 sections.     
+Link to site: http://qandablog.000webhostapp.com.   
+There are 2 sections.     
 1. Admin to review complaints.    
 2. Students for blogging.   
   
