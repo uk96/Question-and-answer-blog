@@ -1,9 +1,9 @@
 # question-and-answer-blog
 This portal is created for users to ask question and answer questions.
 Link to site: http://qandablog.000webhostapp.com . 
-There ae 2 sections.   
-1. Admin to review complaints.  
-2. Students for blogging.    
+There ae 2 sections.     
+1. Admin to review complaints.    
+2. Students for blogging.      
 Action performed by student:  
 1.Ask questions  
 2.Answer questions  
