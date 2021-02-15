@@ -22,4 +22,4 @@ Action performed by admin:
 Database name: q_a  
 Database file is in database folder  
 All profile pic uploaded by users get store in Images/profile_pic folder as "username".jpg  
-To run dowload all files and store it in htdocs folder and run registration.php file on localhost.  
+To run dowload all files and store it in htdocs folder and run registration.php file on localhost  
